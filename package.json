@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "node main.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.1",
+    "jmespath": "^0.16.0",
+    "svelte": "^5.45.6"
+  }
+}
